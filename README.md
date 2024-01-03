@@ -225,15 +225,3 @@ Martin Müller, Marcel Salathé, and Per E. Kummervold.
 COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter.
 arXiv preprint arXiv:2005.07503 (2020).
 ```
-
-# Acknowledgement
-* Thanks to Aksel Kummervold for creating the COVID-Twitter-Bert logo.
-* The model have been trained using resources made available by TPU Research Cloud (TRC) and Google Cloud COVID-19 research credits. 
-* The model was trained as a collaboration between Martin Müller, Marcel Salathé and Per Egil Kummervold.
-* PK received funding from the European Commission for the call H2020-MSCA-IF-2017 and the funding scheme MSCA-IF-EF-ST for the VACMA project (grant agreement ID: 797876).
-* MM and MS received funding through the Versatile Emerging infectious disease Observatory grant as a part of the European Commissions Horizon 2020 framework programme (grant agreement ID: 874735).
-* The research was supported with Cloud TPUs from Google’s TPU Research Cloud and Google Cloud Credits in the context of COVID-19-related research”
-
-# Authors
-* Martin Müller (martin.muller@epfl.ch)
-* Per Egil Kummervold (per@capia.no)
